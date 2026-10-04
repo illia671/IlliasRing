@@ -1,0 +1,177 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "tablegui.png",
+          "use1Xscale": true,
+          "x": 98,
+          "y": 38
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_filebutton1",
+          "image": "filebutton1.png",
+          "hoveredImage": "filebutton2.png",
+          "onClick": {
+            "name": "Fhfghfgh"
+          },
+          "x": 291,
+          "y": 158
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_1",
+          "image": "1.png",
+          "hoveredImage": "1kaclculator.png",
+          "onClick": {
+            "name": "Dsdfdr"
+          },
+          "x": 265,
+          "y": 156
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_2",
+          "image": "12.png",
+          "hoveredImage": "3.png",
+          "x": 239,
+          "y": 156
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_4",
+          "image": "4.png",
+          "hoveredImage": "44.png",
+          "x": 208,
+          "y": 159
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_df",
+          "image": "df.png",
+          "hoveredImage": "6.png",
+          "x": 180,
+          "y": 155
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_10",
+          "image": "10.png",
+          "hoveredImage": "11111.png",
+          "onClick": {
+            "name": "Asdadsadsa"
+          },
+          "x": 149,
+          "y": 155
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_9",
+          "image": "9.png",
+          "hoveredImage": "tssss.png",
+          "x": 120,
+          "y": 157
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_khriestik",
+          "image": "khriestik.png",
+          "hoveredImage": "hrestyk2.png",
+          "onClick": {
+            "name": "Sdfsssssssss"
+          },
+          "x": 325,
+          "y": 28
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_1010",
+          "text": {
+            "fixedValue": "10:10"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 204,
+          "y": 75
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_google",
+          "image": "google.png",
+          "hoveredImage": "sdf.png",
+          "x": 123,
+          "y": 129
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_200526275pixel8bitframeofg",
+          "image": "200526275-pixel-8-bit-frame-of-gallery-game-assets-in-vector-illustrations.png",
+          "hoveredImage": "hjhjjhkhjhjjhkkjhjhkhjk.png",
+          "x": 147,
+          "y": 122
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vapva.png",
+          "use1Xscale": true,
+          "x": 145,
+          "y": 97
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_a",
+          "image": "a.png",
+          "hoveredImage": "",
+          "x": 145,
+          "y": 97
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

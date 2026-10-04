@@ -1,0 +1,277 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "tablegui.png",
+          "use1Xscale": true,
+          "x": 98,
+          "y": 36
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_khriestik",
+          "image": "khriestik.png",
+          "hoveredImage": "hrestyk2.png",
+          "onClick": {
+            "name": "Dfgfg"
+          },
+          "x": 295,
+          "y": 158
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "10.png",
+          "use1Xscale": false,
+          "x": 123,
+          "y": 54
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "10.png",
+          "use1Xscale": false,
+          "x": 123,
+          "y": 84
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "10.png",
+          "use1Xscale": false,
+          "x": 122,
+          "y": 115
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "10.png",
+          "use1Xscale": false,
+          "x": 122,
+          "y": 148
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "10.png",
+          "use1Xscale": false,
+          "x": 216,
+          "y": 54
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "10.png",
+          "use1Xscale": false,
+          "x": 216,
+          "y": 84
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "10.png",
+          "use1Xscale": false,
+          "x": 216,
+          "y": 115
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_11of",
+          "image": "11of.png",
+          "hoveredImage": "11.png",
+          "onClick": {
+            "name": "MusickLdybug1Stop"
+          },
+          "x": 177,
+          "y": 55
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_111",
+          "image": "111.png",
+          "hoveredImage": "111on.png",
+          "onClick": {
+            "name": "MusickLadybug1play"
+          },
+          "x": 150,
+          "y": 55
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_1111",
+          "image": "111.png",
+          "hoveredImage": "111on.png",
+          "onClick": {
+            "name": "Sdfds"
+          },
+          "x": 150,
+          "y": 85
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_11of1",
+          "image": "11of.png",
+          "hoveredImage": "11.png",
+          "onClick": {
+            "name": "MusickLdybug1Stop"
+          },
+          "x": 177,
+          "y": 85
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_1112",
+          "image": "111.png",
+          "hoveredImage": "111on.png",
+          "onClick": {
+            "name": "Musicladybug3Play"
+          },
+          "x": 150,
+          "y": 116
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_1113",
+          "image": "111.png",
+          "hoveredImage": "111on.png",
+          "onClick": {
+            "name": "MusicLadyBug4Play"
+          },
+          "x": 151,
+          "y": 149
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_1114",
+          "image": "111.png",
+          "hoveredImage": "111on.png",
+          "onClick": {
+            "name": "MusicLadyBug5Play"
+          },
+          "x": 244,
+          "y": 55
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_1115",
+          "image": "111.png",
+          "hoveredImage": "111on.png",
+          "x": 244,
+          "y": 85
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_1116",
+          "image": "111.png",
+          "hoveredImage": "111on.png",
+          "x": 244,
+          "y": 116
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_11of2",
+          "image": "11of.png",
+          "hoveredImage": "11.png",
+          "onClick": {
+            "name": "MusickLdybug1Stop"
+          },
+          "x": 177,
+          "y": 116
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_11of3",
+          "image": "11of.png",
+          "hoveredImage": "11.png",
+          "onClick": {
+            "name": "MusickLdybug1Stop"
+          },
+          "x": 178,
+          "y": 149
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_11of4",
+          "image": "11of.png",
+          "hoveredImage": "11.png",
+          "onClick": {
+            "name": "MusickLdybug1Stop"
+          },
+          "x": 272,
+          "y": 55
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_11of5",
+          "image": "11of.png",
+          "hoveredImage": "11.png",
+          "x": 272,
+          "y": 85
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_11of6",
+          "image": "11of.png",
+          "hoveredImage": "11.png",
+          "x": 272,
+          "y": 116
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

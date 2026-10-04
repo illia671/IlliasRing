@@ -1,0 +1,7 @@
+{
+  "parent": "illiasringaddon:custom/openakumaalliance",
+  "textures": {
+    "0": "illiasringaddon:block/openakumaalliance",
+    "particle": "illiasringaddon:item/openallianceakuma"
+  }
+}

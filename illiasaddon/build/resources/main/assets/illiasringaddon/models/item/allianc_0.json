@@ -1,0 +1,7 @@
+{
+  "parent": "illiasringaddon:custom/openalliance",
+  "textures": {
+    "0": "illiasringaddon:block/openalliance",
+    "particle": "illiasringaddon:item/openalliance"
+  }
+}

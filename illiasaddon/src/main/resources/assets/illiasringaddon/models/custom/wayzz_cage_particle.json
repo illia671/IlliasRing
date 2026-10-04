@@ -1,0 +1,6 @@
+{
+  "parent": "illiasringaddon:displaysettings/1000000tikkicagess",
+  "textures": {
+    "particle": "illiasringaddon:block/wayzzcage"
+  }
+}

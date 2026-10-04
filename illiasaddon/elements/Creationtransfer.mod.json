@@ -1,0 +1,26 @@
+{
+  "_fv": 60,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Creationtransfer",
+    "icon": "ilusiontransfer.png",
+    "color": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "CreationtransferPriNalozhieniiEffiekta"
+    },
+    "onActiveTick": {
+      "name": "CreationtransferKazhdyiTikVoVriemiaEffiekta"
+    },
+    "onExpired": {
+      "name": "Rsgg"
+    }
+  }
+}

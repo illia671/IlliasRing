@@ -1,0 +1,492 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "alliance_ring.png",
+          "use1Xscale": true,
+          "x": 156,
+          "y": 9
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "adriancloses.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage5"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "allianceblackboyclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage3"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "allianceblackgirlclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage4"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alliancewhiteboyclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage1"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alliancewhitegirlclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage2"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alukardclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage7"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "felixclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage9"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "kagamiclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage6"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "thehunterclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage8"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "adrian.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead1"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alukard.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead8"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "dragoss.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceHeadAvatar11"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "felix.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead10"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "felixm.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead5"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "kagami.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead3"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "marinett.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead7"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "thehunter.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead9"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "gabriel.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead4"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_chat_button1",
+          "image": "chat_button1.png",
+          "hoveredImage": "chat_button2.png",
+          "onClick": {
+            "name": "OpenAlliance3"
+          },
+          "x": 192,
+          "y": 211
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_info_button1",
+          "image": "info_button1.png",
+          "hoveredImage": "info_button2.png",
+          "onClick": {
+            "name": "OpenAlliance7"
+          },
+          "x": 221,
+          "y": 211
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_phone2_icon",
+          "image": "phone2_icon.png",
+          "hoveredImage": "phone_icon.png",
+          "onClick": {
+            "name": "OpenAlliance4"
+          },
+          "x": 234,
+          "y": 224
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_shop_1",
+          "image": "shop_1.png",
+          "hoveredImage": "shop_2.png",
+          "onClick": {
+            "name": "OpenAlliance5"
+          },
+          "x": 178,
+          "y": 223
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "dragossclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAvatar10"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lila.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead2"
+          },
+          "x": 182,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "emilie.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead6"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "speach_booble.png",
+          "use1Xscale": true,
+          "x": 254,
+          "y": 11
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_hello_my_name_is_alliance_how",
+          "text": {
+            "fixedValue": "Hello! My name is "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 275,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_alliance_how_can_i_help_you",
+          "text": {
+            "fixedValue": "Alliance! How can i"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 274,
+          "y": 55
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_help_you",
+          "text": {
+            "fixedValue": "help you?"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 274,
+          "y": 64
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_time",
+          "text": {
+            "fixedValue": "Time",
+            "name": "Time"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 193,
+          "y": 46
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_alliance_prodaction",
+          "text": {
+            "fixedValue": "Alliance Prodaction"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 165,
+          "y": 15
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "mansuit.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarCloth10"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pinkmansuit.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarCloth11"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "greengirlsuit.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarCloth12"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "orrangegirlsuit.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarCloth13"
+          },
+          "x": 181,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cap1.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfCap1"
+          },
+          "x": 181,
+          "y": 61
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cap2.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfCap2"
+          },
+          "x": 181,
+          "y": 57
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "illiasringaddon:custom/spiritalliance",
+  "textures": {
+    "0": "illiasringaddon:block/spiritalliance",
+    "particle": "illiasringaddon:item/spiritalliance"
+  }
+}

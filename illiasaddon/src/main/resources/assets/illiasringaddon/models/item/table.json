@@ -1,0 +1,7 @@
+{
+  "parent": "illiasringaddon:custom/table",
+  "textures": {
+    "0": "illiasringaddon:block/table",
+    "particle": "illiasringaddon:item/table"
+  }
+}

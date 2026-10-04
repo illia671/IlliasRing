@@ -1,0 +1,153 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "s.png",
+          "use1Xscale": true,
+          "x": 102,
+          "y": 36
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_filebutton1",
+          "image": "filebutton1.png",
+          "hoveredImage": "filebutton2.png",
+          "onClick": {
+            "name": "Sfds"
+          },
+          "x": 116,
+          "y": 65
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_filebutton11",
+          "image": "filebutton1.png",
+          "hoveredImage": "filebutton2.png",
+          "onClick": {
+            "name": "Ddddd"
+          },
+          "x": 146,
+          "y": 65
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_filebutton12",
+          "image": "filebutton1.png",
+          "hoveredImage": "filebutton2.png",
+          "onClick": {
+            "name": "Sdfdsfdsfsdf"
+          },
+          "x": 181,
+          "y": 65
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_filebutton13",
+          "image": "filebutton1.png",
+          "hoveredImage": "filebutton2.png",
+          "onClick": {
+            "name": "Sdfsdfds"
+          },
+          "x": 214,
+          "y": 66
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_filebutton14",
+          "image": "filebutton1.png",
+          "hoveredImage": "filebutton2.png",
+          "x": 247,
+          "y": 66
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_filebutton15",
+          "image": "filebutton1.png",
+          "hoveredImage": "filebutton2.png",
+          "x": 116,
+          "y": 96
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_filebutton16",
+          "image": "filebutton1.png",
+          "hoveredImage": "filebutton2.png",
+          "x": 145,
+          "y": 97
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "zobrazhiennia_viber_2025-05-16_11-17-46-935.png",
+          "use1Xscale": true,
+          "x": 103,
+          "y": 189
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "wifi.png",
+          "use1Xscale": true,
+          "x": 118,
+          "y": 188
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "sdfdf.png",
+          "use1Xscale": true,
+          "x": 119,
+          "y": 36
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_vvpvap",
+          "image": "vvpvap.png",
+          "hoveredImage": "sfgdds.png",
+          "onClick": {
+            "name": "Dfgfg"
+          },
+          "x": 300,
+          "y": 41
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

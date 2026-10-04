@@ -1,0 +1,7 @@
+{
+  "parent": "illiasringaddon:custom/protactionalliance",
+  "textures": {
+    "1": "illiasringaddon:block/protectionalliance",
+    "particle": "illiasringaddon:item/protectionalliance"
+  }
+}

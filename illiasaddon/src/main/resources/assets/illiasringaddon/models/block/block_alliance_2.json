@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "illiasringaddon:block/block2",
+    "up": "illiasringaddon:block/block2",
+    "north": "illiasringaddon:block/block2",
+    "east": "illiasringaddon:block/block2",
+    "south": "illiasringaddon:block/block2",
+    "west": "illiasringaddon:block/block2",
+    "particle": "illiasringaddon:block/block2"
+  },
+  "render_type": "solid"
+}

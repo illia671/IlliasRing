@@ -1,0 +1,896 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 166,
+    "inventoryOffsetX": 1,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "alliance_ring1.png",
+          "use1Xscale": true,
+          "x": 70,
+          "y": 96
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "adriancloses.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage5"
+          },
+          "x": 75,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "allianceblackboyclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage3"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "allianceblackgirlclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage4"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alliancewhiteboyclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage1"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alliancewhitegirlclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage2"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alukardclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage7"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "felixclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage9"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "kagamiclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage6"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "thehunterclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAavatarPage8"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "adrian.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead1"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alukard.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead8"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "dragoss.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceHeadAvatar11"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "felix.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead10"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "felixm.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead5"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "kagami.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead3"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "marinett.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead7"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "thehunter.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead9"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "gabriel.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead4"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "dragossclothes.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ClothesAvatar10"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lila.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead2"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "emilie.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarHead6"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alliance_ring.png",
+          "use1Xscale": true,
+          "x": 156,
+          "y": 6
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "speach_booble2.png",
+          "use1Xscale": true,
+          "x": 2,
+          "y": 57
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_who_do_you_want_to_send_a_messag",
+          "text": {
+            "fixedValue": "Your Skills and"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 5,
+          "y": 58
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_to_send_a_message_to",
+          "text": {
+            "fixedValue": "statisticks ve-"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 5,
+          "y": 66
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_age_to",
+          "text": {
+            "fixedValue": "ry good!"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 75
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_hp",
+          "text": {
+            "fixedValue": "Hp:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 161,
+          "y": 29
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_space.png",
+          "use1Xscale": false,
+          "x": 172,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_space.png",
+          "use1Xscale": false,
+          "x": 182,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_space.png",
+          "use1Xscale": false,
+          "x": 192,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_space.png",
+          "use1Xscale": false,
+          "x": 202,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_space.png",
+          "use1Xscale": false,
+          "x": 212,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_space.png",
+          "use1Xscale": false,
+          "x": 222,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_space.png",
+          "use1Xscale": false,
+          "x": 232,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_space.png",
+          "use1Xscale": false,
+          "x": 242,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_space.png",
+          "use1Xscale": false,
+          "x": 252,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_space.png",
+          "use1Xscale": false,
+          "x": 262,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_notall.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "If1moreHp"
+          },
+          "x": 172,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp2"
+          },
+          "x": 172,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_notall.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp3"
+          },
+          "x": 182,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp4"
+          },
+          "x": 182,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_notall.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp5"
+          },
+          "x": 192,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp6"
+          },
+          "x": 192,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_notall.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp7"
+          },
+          "x": 202,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp8"
+          },
+          "x": 202,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_notall.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp9"
+          },
+          "x": 212,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp10"
+          },
+          "x": 212,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_notall.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp11"
+          },
+          "x": 222,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp12"
+          },
+          "x": 222,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_notall.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp13"
+          },
+          "x": 232,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp14"
+          },
+          "x": 232,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_notall.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp15"
+          },
+          "x": 242,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp16"
+          },
+          "x": 242,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_notall.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp17"
+          },
+          "x": 252,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp18"
+          },
+          "x": 252,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_notall.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp19"
+          },
+          "x": 262,
+          "y": 27
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfmoreHp20"
+          },
+          "x": 262,
+          "y": 27
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_world",
+          "text": {
+            "fixedValue": "Cords:",
+            "name": "Cords"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 161,
+          "y": 45
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_blocks",
+          "text": {
+            "fixedValue": "Speed:",
+            "name": "Speed"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 162,
+          "y": 59
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_phoenix_button1",
+          "image": "phoenix_button1.png",
+          "hoveredImage": "phoenix_button2.png",
+          "onClick": {
+            "name": "SOS"
+          },
+          "x": 159,
+          "y": 115
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_sos",
+          "text": {
+            "fixedValue": "SoS!"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 178,
+          "y": 119
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_death",
+          "text": {
+            "fixedValue": "Death:",
+            "name": "Death"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 162,
+          "y": 73
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_kills",
+          "text": {
+            "fixedValue": "Kills:",
+            "name": "Kills"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 162,
+          "y": 85
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_phoenix_button11",
+          "image": "phoenix_button1.png",
+          "hoveredImage": "phoenix_button2.png",
+          "onClick": {
+            "name": "SOSAkuma"
+          },
+          "x": 158,
+          "y": 143
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_sos_megaakuma",
+          "text": {
+            "fixedValue": "SoS! Akuma"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 161,
+          "y": 147
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_next3",
+          "image": "next3.png",
+          "hoveredImage": "next4.png",
+          "onClick": {
+            "name": "OpenAlliance1"
+          },
+          "x": 187,
+          "y": 217
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "mansuit.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarCloth10"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pinkmansuit.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarCloth11"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "greengirlsuit.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarCloth12"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "orrangegirlsuit.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfAllianceAvatarCloth13"
+          },
+          "x": 76,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cap1.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfCap1"
+          },
+          "x": 76,
+          "y": 81
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cap2.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IfCap2"
+          },
+          "x": 76,
+          "y": 77
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

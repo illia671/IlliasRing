@@ -1,0 +1,7 @@
+{
+  "parent": "illiasringaddon:custom/trixxalliance",
+  "textures": {
+    "0": "illiasringaddon:block/trixxalliance",
+    "particle": "illiasringaddon:item/trixxalliance"
+  }
+}

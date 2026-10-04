@@ -1,0 +1,9 @@
+{
+  "_fv": 60,
+  "_type": "curiosslot",
+  "definition": {
+    "texture": "cat_ring_slot.png",
+    "name": "Action Slot",
+    "amount": 1
+  }
+}

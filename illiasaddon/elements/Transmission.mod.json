@@ -1,0 +1,143 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "s.png",
+          "use1Xscale": true,
+          "x": 113,
+          "y": 36
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_creation",
+          "text": {
+            "fixedValue": "Transmission"
+          },
+          "color": {
+            "value": -5433601,
+            "falpha": 0.0
+          },
+          "x": 190,
+          "y": 55
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_kwami_tikki",
+          "text": {
+            "fixedValue": "Kwami: Nooroo"
+          },
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "x": 126,
+          "y": 66
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_transformation_tikki_spots_on",
+          "text": {
+            "fixedValue": "Transformation: Nooroo, Dark Wings Rise!"
+          },
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "x": 116,
+          "y": 79
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_food_macaron",
+          "text": {
+            "fixedValue": "Food: flower"
+          },
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "x": 126,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_weapon_yoyo",
+          "text": {
+            "fixedValue": "Weapon: rod"
+          },
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "x": 126,
+          "y": 119
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_power_luck_and_creation",
+          "text": {
+            "fixedValue": "Power: Transmission"
+          },
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "x": 126,
+          "y": 104
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "sdfdf.png",
+          "use1Xscale": true,
+          "x": 129,
+          "y": 36
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_vvpvap",
+          "image": "vvpvap.png",
+          "hoveredImage": "sfgdds.png",
+          "onClick": {
+            "name": "Fhfghfgh"
+          },
+          "x": 310,
+          "y": 41
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

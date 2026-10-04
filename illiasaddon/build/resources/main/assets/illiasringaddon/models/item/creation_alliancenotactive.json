@@ -1,0 +1,7 @@
+{
+  "parent": "illiasringaddon:custom/tikkialliance",
+  "textures": {
+    "0": "illiasringaddon:block/1tikkialliance",
+    "particle": "illiasringaddon:item/1tikkialliance"
+  }
+}

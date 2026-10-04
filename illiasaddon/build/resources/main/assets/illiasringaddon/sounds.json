@@ -1,0 +1,114 @@
+{
+  "poof_kwami": {
+    "sounds": [
+      {
+        "name": "illiasringaddon:kwami_poof",
+        "stream": false
+      }
+    ]
+  },
+  "transfer": {
+    "sounds": [
+      {
+        "name": "illiasringaddon:audio_without_transfer",
+        "stream": false
+      }
+    ]
+  },
+  "ladybugmiraculous1": {
+    "sounds": [
+      {
+        "name": "illiasringaddon:0-02-05-5e778875ff7134b9532dd9278aa418793d17677f6d3553d1473277110234e0bc_6d49b22be966f0e0",
+        "stream": false
+      }
+    ]
+  },
+  "ladybugmiraculous2": {
+    "sounds": [
+      {
+        "name": "illiasringaddon:0-02-05-7b483fe94c8a160b76ab723c194a5c0f6ce5cf8656034254077889ec9f6fbfa9_9487013b654ef89b",
+        "stream": false
+      }
+    ]
+  },
+  "ladybugmiraculous3": {
+    "sounds": [
+      {
+        "name": "illiasringaddon:0-02-05-77f962869ed1f83a6ba656383d0c7589eb7842a425e55be2cae170c32ffa0f80_144bb928108d4894",
+        "stream": false
+      }
+    ]
+  },
+  "ladybugmiraculous4": {
+    "sounds": [
+      {
+        "name": "illiasringaddon:0-02-05-c8801e059e57116280ee50cd0c28b0e5902d4ae89e33ce96094434b683a892a9_e1a3bb07e6c6711c",
+        "stream": false
+      }
+    ]
+  },
+  "ladybugmiraculous5": {
+    "sounds": [
+      {
+        "name": "illiasringaddon:0-02-05-c9679a0712383493fa3410d401f0d4339103777a8cfee54481aa2dbe57a25a23_7267fc39a8f5daed",
+        "stream": false
+      }
+    ]
+  },
+  "ladybugmiraculous6": {
+    "sounds": [
+      {
+        "name": "illiasringaddon:0-02-05-ce76ecaf5085eae7693adf4be0776ac8238a9d93079f262c46fc3477e9a6778b_a1e9d43bf51d1be",
+        "stream": false
+      }
+    ]
+  },
+  "ladybugmiraculous7": {
+    "sounds": [
+      {
+        "name": "illiasringaddon:0-02-05-d02250d7025874f405b6d49c984e0a87c22c00266692f61c53cfd810c9c08b91_3a7bf02b461bcd8b",
+        "stream": false
+      }
+    ]
+  },
+  "phoenix_transformation": {
+    "sounds": [
+      {
+        "name": "illiasringaddon:please-calm-my-mind-125566",
+        "stream": false
+      }
+    ]
+  },
+  "alliance_open": {
+    "sounds": [
+      {
+        "name": "illiasringaddon:alliance_online-audio-converter.com",
+        "stream": false
+      }
+    ]
+  },
+  "buy": {
+    "sounds": [
+      {
+        "name": "illiasringaddon:buy",
+        "stream": false
+      }
+    ]
+  },
+  "buy1": {
+    "sounds": [
+      {
+        "name": "illiasringaddon:buy1",
+        "stream": false
+      }
+    ]
+  },
+  "kwamy_appear": {
+    "sounds": [
+      {
+        "name": "illiasringaddon:kwamy_appered",
+        "stream": false
+      }
+    ]
+  }
+}

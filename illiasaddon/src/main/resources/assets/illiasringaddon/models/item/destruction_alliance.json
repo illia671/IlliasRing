@@ -1,0 +1,7 @@
+{
+  "parent": "illiasringaddon:custom/plaggalliance",
+  "textures": {
+    "0": "illiasringaddon:block/plaggalliance",
+    "particle": "illiasringaddon:item/plaggalliance"
+  }
+}

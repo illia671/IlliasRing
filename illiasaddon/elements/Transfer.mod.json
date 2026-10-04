@@ -1,0 +1,308 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 0,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "zobrazhiennia_viber_2025-05-13_14-02-13-336.png",
+          "use1Xscale": true,
+          "x": 133,
+          "y": 29
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "player_name",
+          "name": "player_name",
+          "width": 120,
+          "height": 20,
+          "x": 154,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_set_player_nickname",
+          "text": {
+            "fixedValue": "Set player nickname"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 162,
+          "y": 38
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_wright_all_for_send_power_all_pl",
+          "text": {
+            "fixedValue": "Write all to send powers "
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 148,
+          "y": 123
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_all_player",
+          "text": {
+            "fixedValue": "to all players."
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 148,
+          "y": 134
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_wright_akumatized_for_sending",
+          "text": {
+            "fixedValue": "Write \"Akumatized\" "
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 149,
+          "y": 145
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_for_sending_power_to_akumatized",
+          "text": {
+            "fixedValue": "to send a power to an "
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 148,
+          "y": 156
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_matized_player",
+          "text": {
+            "fixedValue": "akumatized player."
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 148,
+          "y": 166
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_transfer",
+          "text": "Transfer!",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "TransferPower"
+          },
+          "width": 72,
+          "height": 20,
+          "x": 173,
+          "y": 193
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "power",
+          "name": "power",
+          "width": 120,
+          "height": 20,
+          "x": 153,
+          "y": 84
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_list_of_power_work_if_you",
+          "text": {
+            "fixedValue": "List of power: "
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 292,
+          "y": 38
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_work_if_you_have_this_ring",
+          "text": {
+            "fixedValue": "(Work if you have eqquiped"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 291,
+          "y": 49
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_creation",
+          "text": {
+            "fixedValue": "creation"
+          },
+          "color": {
+            "value": -52429,
+            "falpha": 0.0
+          },
+          "x": 296,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_destruction",
+          "text": {
+            "fixedValue": "destruction"
+          },
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "x": 297,
+          "y": 83
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_illusion",
+          "text": {
+            "fixedValue": "illusion"
+          },
+          "color": {
+            "value": -39424,
+            "falpha": 0.0
+          },
+          "x": 296,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_action",
+          "text": {
+            "fixedValue": "action"
+          },
+          "color": {
+            "value": -13261,
+            "falpha": 0.0
+          },
+          "x": 296,
+          "y": 109
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_protaction",
+          "text": {
+            "fixedValue": "protection"
+          },
+          "color": {
+            "value": -13395712,
+            "falpha": 0.0
+          },
+          "x": 296,
+          "y": 121
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_woolf",
+          "text": {
+            "fixedValue": "climatization"
+          },
+          "color": {
+            "value": -6684673,
+            "falpha": 0.0
+          },
+          "x": 296,
+          "y": 135
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_spirit",
+          "text": {
+            "fixedValue": "spirit"
+          },
+          "color": {
+            "value": -16724839,
+            "falpha": 0.0
+          },
+          "x": 295,
+          "y": 148
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_or_have_in_main_hand",
+          "text": {
+            "fixedValue": "or have in main-hand)"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 292,
+          "y": 59
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "illiasringaddon:custom/transmissindust",
+  "textures": {
+    "0": "illiasringaddon:block/transmissindustd",
+    "particle": "illiasringaddon:item/transmissindustd"
+  }
+}

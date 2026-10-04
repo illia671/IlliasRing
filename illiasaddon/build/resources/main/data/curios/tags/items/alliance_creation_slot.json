@@ -1,0 +1,8 @@
+{
+  "replace": "false",
+  "values": [
+    "minecraft:air",
+    "illiasringaddon:creation_alliance",
+    "illiasringaddon:wolf_alliance"
+  ]
+}

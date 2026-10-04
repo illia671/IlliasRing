@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "B",
+    "keyBindingName": "Next Page Ring",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "NextPageRingPriNazhatiiKlavishi"
+    }
+  }
+}

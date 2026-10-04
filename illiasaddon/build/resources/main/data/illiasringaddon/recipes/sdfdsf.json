@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "illiasringaddon:defalt_alliance"
+    },
+    "b": {
+      "item": "illiasringaddon:transmission_dust"
+    }
+  },
+  "result": {
+    "item": "illiasringaddon:transmission_alliance",
+    "count": 1
+  }
+}

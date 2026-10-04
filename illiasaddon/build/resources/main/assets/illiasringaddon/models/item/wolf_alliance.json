@@ -1,0 +1,7 @@
+{
+  "parent": "illiasringaddon:custom/woolfalliance",
+  "textures": {
+    "0": "illiasringaddon:block/woolfalliance",
+    "particle": "illiasringaddon:item/woolfalliance"
+  }
+}

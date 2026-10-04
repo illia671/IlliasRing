@@ -1,0 +1,15 @@
+{
+  "parent": "illiasringaddon:custom/wolf_spear_sheild_addon",
+  "textures": {
+    "0": "illiasringaddon:block/wolf",
+    "particle": "illiasringaddon:item/woolfsheild"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "blocking": 1
+      },
+      "model": "illiasringaddon:item/woolf_sheild_0"
+    }
+  ]
+}

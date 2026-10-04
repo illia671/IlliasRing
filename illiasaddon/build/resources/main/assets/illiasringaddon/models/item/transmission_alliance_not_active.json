@@ -1,0 +1,7 @@
+{
+  "parent": "illiasringaddon:custom/noorooalliance",
+  "textures": {
+    "0": "illiasringaddon:block/transmisionalliance",
+    "particle": "illiasringaddon:item/transmisionalliance"
+  }
+}

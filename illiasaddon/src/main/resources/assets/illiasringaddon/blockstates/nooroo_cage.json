@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "illiasringaddon:custom/nooroo_cage_particle"
+    },
+    "facing=east": {
+      "model": "illiasringaddon:custom/nooroo_cage_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "illiasringaddon:custom/nooroo_cage_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "illiasringaddon:custom/nooroo_cage_particle",
+      "y": 270
+    }
+  }
+}

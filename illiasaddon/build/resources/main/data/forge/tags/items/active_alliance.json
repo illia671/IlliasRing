@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "illiasringaddon:creation_alliance",
+    "illiasringaddon:protection_alliance",
+    "illiasringaddon:action_alliance",
+    "illiasringaddon:illusion_alliance",
+    "illiasringaddon:wolf_alliance",
+    "illiasringaddon:spirit_alliance",
+    "illiasringaddon:destruction_alliance",
+    "illiasringaddon:transmission_alliance"
+  ]
+}

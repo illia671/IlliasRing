@@ -1,0 +1,77 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 166,
+    "inventoryOffsetX": 1,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "alliance_ring.png",
+          "use1Xscale": true,
+          "x": 155,
+          "y": 6
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_buttonshopitem",
+          "image": "buttonshopitem.png",
+          "hoveredImage": "buttonshopitemwhite.png",
+          "onClick": {
+            "name": "OpenAlliance6"
+          },
+          "x": 181,
+          "y": 74
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_next3",
+          "image": "next3.png",
+          "hoveredImage": "next4.png",
+          "onClick": {
+            "name": "OpenAlliance1"
+          },
+          "x": 187,
+          "y": 217
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mansuitlogo",
+          "image": "mansuitlogo.png",
+          "hoveredImage": "mansuitlogo.png",
+          "x": 193,
+          "y": 88
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_pinkmansuitlogo",
+          "image": "pinkmansuitlogo.png",
+          "hoveredImage": "pinkmansuitlogo.png",
+          "x": 205,
+          "y": 96
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "illiasringaddon:custom/dustalliancecreation",
+  "textures": {
+    "0": "illiasringaddon:block/dustcreation",
+    "particle": "illiasringaddon:item/dustcreation"
+  }
+}

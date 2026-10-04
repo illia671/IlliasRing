@@ -1,0 +1,7 @@
+{
+  "parent": "illiasringaddon:custom/defolstalliance",
+  "textures": {
+    "0": "illiasringaddon:block/defoltalliance",
+    "particle": "illiasringaddon:item/defoltalliance"
+  }
+}

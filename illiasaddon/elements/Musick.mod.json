@@ -1,0 +1,122 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "tablegui.png",
+          "use1Xscale": true,
+          "x": 99,
+          "y": 36
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_khriestik",
+          "image": "khriestik.png",
+          "hoveredImage": "hrestyk2.png",
+          "onClick": {
+            "name": "Dfgfg"
+          },
+          "x": 295,
+          "y": 158
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_10",
+          "image": "10.png",
+          "hoveredImage": "11111.png",
+          "onClick": {
+            "name": "Dsfdsf"
+          },
+          "x": 126,
+          "y": 61
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_101",
+          "image": "10.png",
+          "hoveredImage": "11111.png",
+          "x": 207,
+          "y": 61
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_102",
+          "image": "10.png",
+          "hoveredImage": "11111.png",
+          "x": 286,
+          "y": 61
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_ladybug",
+          "text": {
+            "fixedValue": "LadyBug"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 121,
+          "y": 88
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_lifemusic",
+          "text": {
+            "fixedValue": "LifeMusic"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 197,
+          "y": 89
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_minecraft",
+          "text": {
+            "fixedValue": "Minecraft"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 276,
+          "y": 89
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

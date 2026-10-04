@@ -1,0 +1,21 @@
+{
+  "parent": "illiasringaddon:custom/alliance",
+  "textures": {
+    "0": "illiasringaddon:block/alliance",
+    "particle": "illiasringaddon:item/alliance"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "illiasringaddon:allianc_open": 1
+      },
+      "model": "illiasringaddon:item/allianc_0"
+    },
+    {
+      "predicate": {
+        "illiasringaddon:allianc_akuma": 1
+      },
+      "model": "illiasringaddon:item/allianc_1"
+    }
+  ]
+}

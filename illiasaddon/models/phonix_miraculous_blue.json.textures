@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "ghonix_miraculous_blue"
+      },
+      "name": "default"
+    }
+  }
+}

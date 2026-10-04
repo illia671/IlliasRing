@@ -1,0 +1,7 @@
+{
+  "_fv": 60,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"execute_command\"><value name=\"command\"><block type=\"text\"><field name=\"TEXT\">/execute as @a if entity @s[nbt={Inventory:[{Slot:103b,id:\"nastyas_miracle_stones_mod:style_queen_helmet\"}]}] run  effect give @s illiasaddon:creationtransfer infinite 111 false</field></block></value><value name=\"x\"><block type=\"coord_x\"></block></value><value name=\"y\"><block type=\"coord_y\"></block></value><value name=\"z\"><block type=\"coord_z\"></block></value><next><block type=\"entity_set_mainhand_item\"><value name=\"entity\"><block type=\"entity_from_deps\"></block></value><value name=\"amount\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">CUSTOM:CreationAlliancenotactive</field></block></value><next><block type=\"entity_close_gui\"><value name=\"entity\"><block type=\"entity_from_deps\"></block></value></block></next></block></next></block></next></block></xml>"
+  }
+}
